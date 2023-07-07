@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjial" alt="rjial" /></a> </p>
 
-- 🔭 I’m currently internship on **PT Nusantara Infrastructure**
+- 🔭 I was doing internship on **PT Nusantara Infrastructure**
 
 - I am currently pursuing my Bachelor's in Informatics Engineering at STIKI Malang.
 
